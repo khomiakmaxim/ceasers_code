@@ -1,0 +1,55 @@
+E:\3_kurs\Криптологія\1\Crypto1\Crypto1\bin\Debug\Crypto1.exe.config
+E:\3_kurs\Криптологія\1\Crypto1\Crypto1\bin\Debug\Crypto1.exe
+E:\3_kurs\Криптологія\1\Crypto1\Crypto1\bin\Debug\Crypto1.pdb
+E:\3_kurs\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.csprojAssemblyReference.cache
+E:\3_kurs\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.Properties.Resources.resources
+E:\3_kurs\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.csproj.GenerateResource.cache
+E:\3_kurs\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.exe
+E:\3_kurs\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.pdb
+E:\3_kurs\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.Form1.resources
+D:\3_kurs\Криптологія\Crypto1\Crypto1\bin\Debug\Crypto1.exe.config
+D:\3_kurs\Криптологія\Crypto1\Crypto1\bin\Debug\Crypto1.exe
+D:\3_kurs\Криптологія\Crypto1\Crypto1\bin\Debug\Crypto1.pdb
+D:\3_kurs\Криптологія\Crypto1\Crypto1\obj\Debug\Crypto1.csprojAssemblyReference.cache
+D:\3_kurs\Криптологія\Crypto1\Crypto1\obj\Debug\Crypto1.Form1.resources
+D:\3_kurs\Криптологія\Crypto1\Crypto1\obj\Debug\Crypto1.Properties.Resources.resources
+D:\3_kurs\Криптологія\Crypto1\Crypto1\obj\Debug\Crypto1.csproj.GenerateResource.cache
+D:\3_kurs\Криптологія\Crypto1\Crypto1\obj\Debug\Crypto1.exe
+D:\3_kurs\Криптологія\Crypto1\Crypto1\obj\Debug\Crypto1.pdb
+E:\3_kurs\Криптологія\Crypto1\Crypto1\bin\Debug\Crypto1.exe.config
+E:\3_kurs\Криптологія\Crypto1\Crypto1\bin\Debug\Crypto1.exe
+E:\3_kurs\Криптологія\Crypto1\Crypto1\bin\Debug\Crypto1.pdb
+E:\3_kurs\Криптологія\Crypto1\Crypto1\obj\Debug\Crypto1.csprojAssemblyReference.cache
+E:\3_kurs\Криптологія\Crypto1\Crypto1\obj\Debug\Crypto1.Form1.resources
+E:\3_kurs\Криптологія\Crypto1\Crypto1\obj\Debug\Crypto1.Properties.Resources.resources
+E:\3_kurs\Криптологія\Crypto1\Crypto1\obj\Debug\Crypto1.csproj.GenerateResource.cache
+E:\3_kurs\Криптологія\Crypto1\Crypto1\obj\Debug\Crypto1.exe
+E:\3_kurs\Криптологія\Crypto1\Crypto1\obj\Debug\Crypto1.pdb
+D:\Disk_D\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.csprojAssemblyReference.cache
+D:\Disk_D\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.Form1.resources
+D:\Disk_D\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.Properties.Resources.resources
+D:\Disk_D\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.csproj.GenerateResource.cache
+D:\Disk_D\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.exe
+D:\Disk_D\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.pdb
+D:\Disk_D\Криптологія\1\Crypto1\Crypto1\bin\Debug\Crypto1.exe.config
+D:\Disk_D\Криптологія\1\Crypto1\Crypto1\bin\Debug\Crypto1.exe
+D:\Disk_D\Криптологія\1\Crypto1\Crypto1\bin\Debug\Crypto1.pdb
+D:\Криптологія\1\Crypto1\Crypto1\bin\Debug\Crypto1.exe.config
+D:\Криптологія\1\Crypto1\Crypto1\bin\Debug\Crypto1.exe
+D:\Криптологія\1\Crypto1\Crypto1\bin\Debug\Crypto1.pdb
+D:\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.csprojAssemblyReference.cache
+D:\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.Form1.resources
+D:\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.Properties.Resources.resources
+D:\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.csproj.GenerateResource.cache
+D:\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.exe
+D:\Криптологія\1\Crypto1\Crypto1\obj\Debug\Crypto1.pdb
+C:\Users\Maksym\Downloads\Telegram Desktop\Криптологія\1\copia!!!\Crypto1\Crypto1\bin\Debug\Crypto1.exe.config
+C:\Users\Maksym\Downloads\Telegram Desktop\Криптологія\1\copia!!!\Crypto1\Crypto1\bin\Debug\Crypto1.exe
+C:\Users\Maksym\Downloads\Telegram Desktop\Криптологія\1\copia!!!\Crypto1\Crypto1\bin\Debug\Crypto1.pdb
+C:\Users\Maksym\Downloads\Telegram Desktop\Криптологія\1\copia!!!\Crypto1\Crypto1\obj\Debug\Crypto1.csprojAssemblyReference.cache
+C:\Users\Maksym\Downloads\Telegram Desktop\Криптологія\1\copia!!!\Crypto1\Crypto1\obj\Debug\Crypto1.Form1.resources
+C:\Users\Maksym\Downloads\Telegram Desktop\Криптологія\1\copia!!!\Crypto1\Crypto1\obj\Debug\Crypto1.Properties.Resources.resources
+C:\Users\Maksym\Downloads\Telegram Desktop\Криптологія\1\copia!!!\Crypto1\Crypto1\obj\Debug\Crypto1.csproj.GenerateResource.cache
+C:\Users\Maksym\Downloads\Telegram Desktop\Криптологія\1\copia!!!\Crypto1\Crypto1\obj\Debug\Crypto1.csproj.CoreCompileInputs.cache
+C:\Users\Maksym\Downloads\Telegram Desktop\Криптологія\1\copia!!!\Crypto1\Crypto1\obj\Debug\Crypto1.exe
+C:\Users\Maksym\Downloads\Telegram Desktop\Криптологія\1\copia!!!\Crypto1\Crypto1\obj\Debug\Crypto1.pdb
